@@ -1,12 +1,12 @@
 # Unsupervised detection of inflows and outflows in intersection traffic videos
 
-Repository for the code supporting of the paper titled **Unsupervised detection of inflows and outflows in intersection traffic videos** (DOI: []())
+Repository for the code supporting of the paper titled **Unsupervised detection of inflows and outflows in intersection traffic videos** (Accepted for publication in the _Integrated Computer-Aided Engineering Journal_, DOI pending)
 
 ## Citation
 Please use the following citation if you use our data or code:
 ````
 @article{
-
+PUBLICATION DATA PENDING
 }
 ````
 
